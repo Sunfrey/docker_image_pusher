@@ -15,3 +15,4 @@ jgraph/drawio
 mongo:4.4.16
 vtigercrm/vtigercrm-8.0.0
 mysql
+adminer
