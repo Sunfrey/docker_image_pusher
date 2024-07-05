@@ -8,9 +8,9 @@ markliu2018/moneywhere-all
 tensorchord/pgvecto-rs:pg16-v0.2.1
 redis
 mereith/van-blog
-vtigercrm-8.2.0
+vtigercrm/vtigercrm-8.2.0
 itushan/mtab
 surveyking/surveyking
 jgraph/drawio
 mongo:4.4.16
-vtigercrm-8.0.0
+vtigercrm/vtigercrm-8.0.0
