@@ -11,3 +11,4 @@ mereith/van-blog
 vtigercrm/vtigercrm-8.2.0
 itushan/mtab
 surveyking/surveyking
+jgraph/drawio
