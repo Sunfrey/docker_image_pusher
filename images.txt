@@ -19,3 +19,4 @@ ich777/openvpn-client
 ich777/krusader
 fireflyiii/core
 fireflyiii/data-importer
+alpine
