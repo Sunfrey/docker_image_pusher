@@ -20,3 +20,4 @@ ich777/krusader
 fireflyiii/core
 fireflyiii/data-importer
 alpine
+mariadb
